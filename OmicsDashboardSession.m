@@ -1,6 +1,7 @@
 classdef OmicsDashboardSession
-    %UNTITLED Summary of this class goes here
-    %   Detailed explanation goes here
+    %OmicsDashboardSession Manage an Omics Dashboard session.
+    %   Authenticate to an Omics Dashboard service and send/receive
+    %   collections from it.
     
     properties
         omics_weboptions
