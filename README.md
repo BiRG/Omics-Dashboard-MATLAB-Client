@@ -1,5 +1,5 @@
 # Omics-Dashboard-MATLAB-Client
-A collection of MATLAB scripts for interfacing with a BiRG/Omics-Dashboard service.
+A collection of MATLAB scripts for interfacing with a [BiRG/Omics-Dashboard](https://github.com/BiRG/Omics-Dashboard) service.
 
 Communication is limited to getting and posting collections. Please use the [python client](https://github.com/BiRG/Omics-Dashboard-Python-Client) to manage other records.
 
